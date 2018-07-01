@@ -1,14 +1,12 @@
 html {
     box-sizing: border-box;
-    height: 100%;
+    height: 90%;
 }
-
 *,
 *::before,
 *::after {
     box-sizing: inherit;
 }
-
 body {
     display: flex;
     margin: 0;
