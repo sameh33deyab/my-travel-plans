@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    height: 90%;
+    height: 100%;
 }
 *,
 *::before,
@@ -10,7 +10,7 @@ html {
 body {
     display: flex;
     margin: 0;
-    height: 90%;
+    height: 100%;
 }
 
 .container {
